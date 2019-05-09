@@ -6,7 +6,7 @@ Setting and Repository for my Personal Professional Webpage
 
 - Setting the template using Jekyll
 
-            - [Main tutorial](https://www.youtube.com/watch?v=qWrcgHwSG8M)
+   -   [Main tutorial](https://www.youtube.com/watch?v=qWrcgHwSG8M)
             
-            - [Setting up Git](:https://github.com/desktop/desktop/issues/5278)
+   -   [Setting up Git](:https://github.com/desktop/desktop/issues/5278)
   
