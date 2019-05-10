@@ -44,7 +44,7 @@ div.breaker { clear:both; }
 
 p, ul, ol, pre, blockquote, hr, object { margin: 1em 0; }
 pre, tt {
-  font-family: inherit;
+  font-family: "Oxygen", helvetica, sans-serif;
 }
 
 code {
