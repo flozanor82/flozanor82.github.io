@@ -37,8 +37,8 @@ while "``k''" != ""{
 local k=`k'-1
 forvalues v=4/`k'{
 	qui gen ``v''_rl= factor * ``v''
-	drop ``v''
-	rename ``v''_rl ``v''
+	*drop ``v''
+	*rename ``v''_rl ``v''
 	
 	display "The variable ``v'' is real now, base `base'"
 }
